@@ -1,7 +1,4 @@
 <div align="center">
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzMDg0OTAsIm5iZiI6MTczMzMwODE5MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA0VDEwMjk1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0M2UyOWVmNzMxYjQyNzZmODE2YzE2MjM0ZjJjYmU5NDY2OTU3NmE0ODk3OTNhOWI5NTRlNGUwNzVmYjExYmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.olKdqHMXHHPkEFF5Px_ozy0v_UhjiKkULYxjoAAZWQ8" align="center" style="width: 100%; height:200px" />
-</div>  
-
 
 ### <div align="center">Hello, World! 🌍 I'm **Hardik Zinzuvadiya** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />‍</br>  
 A creative **full-stack developer** and definitely not a hacker! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> </br>  
