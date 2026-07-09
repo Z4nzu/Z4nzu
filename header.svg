@@ -1,0 +1,56 @@
+<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="45%" style="stop-color:#161b27"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1f2335;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#7aa2f7"/>
+      <stop offset="70%" style="stop-color:#bb9af7"/>
+      <stop offset="100%" style="stop-color:#1f2335;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)" rx="0"/>
+
+  <!-- Grid dots -->
+  <g opacity="0.07" fill="#7aa2f7">
+    <circle cx="60" cy="40" r="1.5"/><circle cx="120" cy="40" r="1.5"/><circle cx="180" cy="40" r="1.5"/><circle cx="240" cy="40" r="1.5"/><circle cx="300" cy="40" r="1.5"/><circle cx="360" cy="40" r="1.5"/><circle cx="420" cy="40" r="1.5"/><circle cx="480" cy="40" r="1.5"/><circle cx="540" cy="40" r="1.5"/><circle cx="600" cy="40" r="1.5"/><circle cx="660" cy="40" r="1.5"/><circle cx="720" cy="40" r="1.5"/><circle cx="780" cy="40" r="1.5"/><circle cx="840" cy="40" r="1.5"/>
+    <circle cx="60" cy="100" r="1.5"/><circle cx="120" cy="100" r="1.5"/><circle cx="180" cy="100" r="1.5"/><circle cx="240" cy="100" r="1.5"/><circle cx="300" cy="100" r="1.5"/><circle cx="360" cy="100" r="1.5"/><circle cx="420" cy="100" r="1.5"/><circle cx="480" cy="100" r="1.5"/><circle cx="540" cy="100" r="1.5"/><circle cx="600" cy="100" r="1.5"/><circle cx="660" cy="100" r="1.5"/><circle cx="720" cy="100" r="1.5"/><circle cx="780" cy="100" r="1.5"/><circle cx="840" cy="100" r="1.5"/>
+    <circle cx="60" cy="160" r="1.5"/><circle cx="120" cy="160" r="1.5"/><circle cx="180" cy="160" r="1.5"/><circle cx="240" cy="160" r="1.5"/><circle cx="300" cy="160" r="1.5"/><circle cx="360" cy="160" r="1.5"/><circle cx="420" cy="160" r="1.5"/><circle cx="480" cy="160" r="1.5"/><circle cx="540" cy="160" r="1.5"/><circle cx="600" cy="160" r="1.5"/><circle cx="660" cy="160" r="1.5"/><circle cx="720" cy="160" r="1.5"/><circle cx="780" cy="160" r="1.5"/><circle cx="840" cy="160" r="1.5"/>
+  </g>
+
+  <!-- Accent orb left -->
+  <circle cx="80" cy="100" r="55" fill="#7aa2f7" opacity="0.05"/>
+  <circle cx="80" cy="100" r="30" fill="#7aa2f7" opacity="0.06"/>
+
+  <!-- Accent orb right -->
+  <circle cx="820" cy="100" r="55" fill="#bb9af7" opacity="0.05"/>
+  <circle cx="820" cy="100" r="30" fill="#bb9af7" opacity="0.06"/>
+
+  <!-- Name -->
+  <text x="450" y="88" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="36" font-weight="700" fill="#c0caf5" filter="url(#glow)">Hardik Zinzuvadiya</text>
+
+  <!-- Divider line -->
+  <rect x="150" y="103" width="600" height="1.5" fill="url(#line)" rx="1"/>
+
+  <!-- Subtitle -->
+  <text x="450" y="132" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="15" font-weight="400" fill="#7aa2f7" letter-spacing="3">
+    FULL STACK PYTHON DEVELOPER
+  </text>
+
+  <!-- Tags -->
+  <text x="450" y="163" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace"
+        font-size="12" fill="#565f89">
+    Python · Django · Vue.js · AI Integration · Open Source
+  </text>
+</svg>
